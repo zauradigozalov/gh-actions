@@ -1,6 +1,5 @@
 name: 03 - Workflow Runners
 on:
-  push:
   pull_request:
   workflow_dispatch:
 
